@@ -16,10 +16,10 @@
     <td>
 
 - ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)  
-- 🌱 Last Project [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)  
+- 🌱 Last Project: [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)  
 - 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**  
 - 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications  
-- 📚 Ask me about PHP, Laravel, APIs, ReactJs, NextJs. 
+- 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js  
 - 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise  
 - 🎯 Passionate about building scalable solutions and enhancing **user experience**  
 - 📫 How to reach me: **ahmednadeemryk19@gmail.com**  
@@ -27,11 +27,11 @@
 - 😄 Fun fact: I am not a Dropout 😁  
 
     </td>
-<td> <img src="https://camo.githubusercontent.com/cd878ec5a6b9314e5d2862b8f5f6e934ef657572f93e650c569aa3499937eebd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4650626e53687131683149533546517950442f67697068792e676966" width="300"/> </td>
+    <td>
+      <img src="https://camo.githubusercontent.com/cd878ec5a6b9314e5d2862b8f5f6e934ef657572f93e650c569aa3499937eebd/68747470733a2f2f6d656469612e67697068792e636f6d656469612f4650626e53687131683149533546517950442f67697068792e676966" width="300"/>
+    </td>
   </tr>
 </table>
-
-
 
 ---
 
@@ -58,6 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
 </p>
 
+---
 
 ### 🔥 Streak Stats
 <p align="center">
