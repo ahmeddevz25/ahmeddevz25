@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=ahmeddevz25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-
----
-
-### 🛠️ Languages and Tools:
 <table>
   <tr>
     <td>
