@@ -22,7 +22,7 @@
 - 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js  
 - 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise  
 - 🎯 Passionate about building scalable solutions and enhancing **user experience**  
-- 📫 How to reach me: **ahmednadeemryk19@gmail.com**  
+- 📫 How to reach me: [**ahmednadeemryk19@gmail.com**](mailto:ahmednadeemryk19@gmail.com)  
 - ❤️ I love Designing **UI/UX**  
 - 😄 Fun fact: I am not a Dropout 😁  
 
@@ -36,7 +36,7 @@
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmeddevz25)
 
 ---
 
