@@ -6,7 +6,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="[https://komarev.com/ghpvc/?username=hammadrafay&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/cd878ec5a6b9314e5d2862b8f5f6e934ef657572f93e650c569aa3499937eebd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4650626e53687131683149533546517950442f67697068792e676966)" />
+</p>
 ### 🚀 What I'm working on:
 - 🔭 I’m working with **Navicosoft**
 - 🌱 Last Project at **WareHub**
