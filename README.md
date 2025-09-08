@@ -12,7 +12,7 @@
   <tr>
     <td>
 
-- ⚡ I am working with [Navicosoft](https://www.navicosoft.com)  
+- ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)  
 - 🌱 Last Project [AI WareHub](https://warehub.com)  
 - 🏆 Proudly leading the tech team behind Mustakshif Halal Scanner App [Mustakshif](https://mustakshif.com)  
 - 🌍 Created Pakistan’s First Domain Registrar portal in Laravel  
