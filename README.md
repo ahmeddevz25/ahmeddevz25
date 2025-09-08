@@ -16,7 +16,7 @@
 - 🌱 Last Project [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)  
 - 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**  
 - 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications  
-- 📚 Ask me about PHP, Laravel, APIs, Django, and modern JavaScript frameworks  
+- 📚 Ask me about PHP, Laravel, APIs, ReactJs, NextJs. 
 - 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise  
 - 🎯 Passionate about building scalable solutions and enhancing **user experience**  
 - 📫 How to reach me: **ahmednadeemryk19@gmail.com**  
