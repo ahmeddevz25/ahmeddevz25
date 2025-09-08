@@ -7,26 +7,6 @@
 
 ---
 
-### 🚀 What I'm working on:
-- 🔭 I’m working with **Navicosoft**
-- 🌱 Last Project at **WareHub**
-- 🏆 Leading the tech team behind **Mustakbil Halal Scanner App**
-- 🌍 Created Pakistan’s First Domain Registrar portal in **Laravel**
-- 💻 Specialized in TLD Registration Systems using **WHMCS & Laravel**
-- ⚛️ Currently learning **React, Next.js**
-- 🤝 Collaborating on **WordPress Plugins**
-- 📚 Ask me about **PHP, JS, Laravel, APIs, UI/UX**
-- 📫 Reach me at **hammad@bee-a-dev.com**
-- 🎨 I love Designing **UI/UX**
-- 😄 Fun fact: **I’m not a Dropout** 😉
-
----
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)
-
----
-
 ### 🛠️ Languages and Tools:
 <table>
   <tr>
@@ -50,6 +30,12 @@
     </td>
   </tr>
 </table>
+
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)
 
 ---
 
