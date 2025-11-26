@@ -15,16 +15,16 @@
   <tr>
     <td>
 
-- ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)  
-- 🌱 Last Project: [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)  
-- 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**  
-- 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications  
-- 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js  
-- 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise  
-- 🎯 Passionate about building scalable solutions and enhancing **user experience**  
-- 📫 How to reach me: [**ahmednadeemryk19@gmail.com**](mailto:ahmednadeemryk19@gmail.com)  
-- ❤️ I love Designing **UI/UX**  
-- 😄 Fun fact: I am not a Dropout 😁  
+- ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)
+- 🌱 Last Project: [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)
+- 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**
+- 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications
+- 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js
+- 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise
+- 🎯 Passionate about building scalable solutions and enhancing **user experience**
+- 📫 How to reach me: [**ahmednadeemryk19@gmail.com**](mailto:ahmednadeemryk19@gmail.com)
+- ❤️ I love Designing **UI/UX**
+- 😄 Fun fact: I am not a Dropout 😁
 
     </td>
     <td>
