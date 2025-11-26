@@ -62,15 +62,15 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&theme=radical" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ahmeddevz25&theme=tokyonight&hide_border=true&border_radius=6" alt="streak"/>
 </p>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=6" alt="stats"/>
 </p>
 
 ### 🏆 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&theme=tokyonight&hide_border=true&border_radius=6" alt="langs"/>
 </p>
