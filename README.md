@@ -15,16 +15,16 @@
   <tr>
     <td>
 
-- ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)
-- 🌱 Last Project: [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)
-- 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**
-- 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications
-- 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js
-- 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise
-- 🎯 Passionate about building scalable solutions and enhancing **user experience**
-- 📫 How to reach me: [**ahmednadeemryk19@gmail.com**](mailto:ahmednadeemryk19@gmail.com)
-- ❤️ I love Designing **UI/UX**
-- 😄 Fun fact: I am not a Dropout 😁
+- ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)  
+- 🌱 Last Project: [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)  
+- 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**  
+- 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications  
+- 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js  
+- 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise  
+- 🎯 Passionate about building scalable solutions and enhancing **user experience**  
+- 📫 How to reach me: [**ahmednadeemryk19@gmail.com**](mailto:ahmednadeemryk19@gmail.com)  
+- ❤️ I love Designing **UI/UX**  
+- 😄 Fun fact: I am not a Dropout 😁  
 
     </td>
     <td>
@@ -60,20 +60,17 @@
 
 ---
 
-### 🔥 GitHub Stats: Side-by-Side
-
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmeddevz25&theme=radical&date=20251126" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&theme=radical" alt="streak"/>
 </p>
 
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&theme=radical&date=20251126" alt="stats" width="49%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&theme=radical&date=20251126" alt="langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&theme=radical" alt="stats"/>
 </p>
 
----
-
-**Crucial Step:** Code update karne ke baad, **Ctrl+F5** dabakar ya incognito window mein apni GitHub profile refresh karein. API images ko render hone mein kuch seconds lag sakte hain.
-
-Aap kaunsa solution try karna chahenge? Ya aap chahenge ki main in **stats images ka theme change** kar doon?
+### 🏆 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&theme=radical" alt="langs"/>
+</p>
