@@ -16,7 +16,7 @@
     <td>
 
 - ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)  
-- 🌱 Last Project: [Learning Alliance Uniform Website](https://uniform.learningalliance.edu.pk/)  
+- 🌱 Last Project: [Learning Alliance International](https://www.learningalliance.edu.pk/)  
 - 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**  
 - 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications  
 - 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js  
