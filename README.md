@@ -11,6 +11,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmednadeemryk19@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
@@ -22,8 +23,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer with 3+ years of experience** building fast, secure and user-friendly web applications. I work end to end: from database design and REST APIs to polished, responsive interfaces.
+I'm a **Full-Stack Developer with 3+ years of experience** building fast, secure and user-friendly web applications. I work end to end: from database design and REST APIs to polished, responsive interfaces. I specialize in scalable web applications, custom CMS portals, and intelligent Python-powered Machine Learning solutions.
 
+- 🌐 Portfolio: [**ahmed-portfolio-mu-six.vercel.app**](https://ahmed-portfolio-mu-six.vercel.app/)
 - 💼 Software Engineer at [**Learning Alliance International**](https://www.learningalliance.edu.pk/)
 - 🧰 Core stack: **PHP, Laravel, React.js, Next.js, MySQL**
 - 🤖 Currently learning **AI & Machine Learning**, with a focus on **AI Agents & Agentic AI**
@@ -87,7 +89,7 @@ I also take on freelance work on **Upwork, Fiverr, Freelancer.com** and via **Li
 - 🗄️ Database design and optimization (MySQL)
 - 🎨 Responsive UI built from Figma designs
 
-📫 **Want to work together?** [Email me](mailto:ahmednadeemryk19@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/ahmeddevz25).
+📫 **Want to work together?** Check my [portfolio](https://ahmed-portfolio-mu-six.vercel.app/), [email me](mailto:ahmednadeemryk19@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/ahmeddevz25).
 
 ---
 
