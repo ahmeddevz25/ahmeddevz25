@@ -51,12 +51,20 @@ Available for freelance work on Upwork, Fiverr, Freelancer.com and through Linke
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages"/>
 </p>
 
+<div align="center">
+
 ## Get in Touch
 
-Have a project in mind or want to collaborate? I'd like to hear about it.
+### Have a project in mind? Let's build something great together.
 
-- **Email:** [ahmednadeemryk19@gmail.com](mailto:ahmednadeemryk19@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ahmeddevz25](https://linkedin.com/in/ahmeddevz25)
-- **Portfolio:** [ahmed-portfolio-mu-six.vercel.app](https://ahmed-portfolio-mu-six.vercel.app/)
+<p>Whether it's a new web application, an API, or an AI-driven idea,<br/>I'd love to hear about it. I usually reply within a day.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=80&section=footer" width="100%" alt=""/>
+[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmednadeemryk19@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
+
+<sub>ahmednadeemryk19@gmail.com &nbsp;·&nbsp; Lahore, Pakistan</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=100&section=footer" width="100%" alt=""/>
+
+</div>
