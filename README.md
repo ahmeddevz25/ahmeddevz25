@@ -106,6 +106,8 @@ I also take on freelance work on **Upwork, Fiverr, Freelancer.com** and via **Li
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&theme=radical&hide_border=true" alt="GitHub streak"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmeddevz25&theme=redical&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+
 </div>
 
 ---
