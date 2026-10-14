@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=180&section=header&text=Muhammad%20Ahmed&fontSize=46&fontColor=ffffff" width="100%" alt="Muhammad Ahmed"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Muhammad%20Ahmed&fontSize=50&fontColor=ffffff" width="100%" alt="Muhammad Ahmed"/>
 
 <h3>Full-Stack Developer &nbsp;|&nbsp; Laravel &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;|&nbsp; AI/ML Enthusiast</h3>
 
-<p>3+ years building scalable web applications, custom CMS portals and intelligent Python-powered solutions.</p>
+<p>Building scalable web applications, custom CMS portals and intelligent Python-powered solutions.</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
@@ -12,58 +12,111 @@
 
 </div>
 
-## About
+<br/>
 
-I'm a Full-Stack Developer with **3+ years of professional experience** in **Laravel, React.js and Next.js**. I work end to end, from database design and REST APIs to polished, responsive interfaces, and I care about the experience of the people using what I build.
+## 👨‍💻 About Me
 
-| | |
-| :-- | :-- |
-| **Currently** | Software Engineer at [Learning Alliance International](https://www.learningalliance.edu.pk/) |
-| **Learning** | AI & Machine Learning, with a focus on AI Agents and Agentic AI |
-| **Exploring** | Cloud technologies and DevOps tooling to strengthen my backend skills |
-| **Open to** | Freelance work and collaboration on full-stack and AI-driven projects |
-| **Ask me about** | PHP, Laravel, REST APIs, React.js, Next.js |
+I'm a **Full-Stack Developer** at [Learning Alliance International](https://www.learningalliance.edu.pk/) with **3+ years of professional experience** in Laravel, React.js and Next.js. I work end to end, from database design and REST APIs to polished, responsive interfaces, and I'm now growing into **AI & Machine Learning**, with a focus on AI agents and agentic AI.
 
-## Tech Stack
+```js
+const ahmed = {
+  role: "Full-Stack Developer",
+  company: "Learning Alliance International",
+  location: "Lahore, Pakistan",
+  experience: "3+ years",
+  backend: ["PHP", "Laravel", "MySQL", "Python"],
+  frontend: ["React.js", "Next.js", "Vue.js", "Tailwind CSS"],
+  learning: ["AI & ML", "AI Agents", "Agentic AI"],
+  exploring: ["Cloud", "DevOps"],
+  openTo: ["Freelance projects", "Collaborations"],
+};
+```
 
-| Area | Technologies |
-| :-- | :-- |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+<br/>
 
-## Services
-
-Available for freelance work on Upwork, Fiverr, Freelancer.com and through LinkedIn.
-
-| Service | What I deliver |
-| :-- | :-- |
-| **Web applications** | Custom applications and CMS portals built with Laravel, React and Next.js |
-| **API development** | Well-structured REST APIs and third-party integrations |
-| **Database design** | MySQL schema design, queries and performance optimization |
-| **UI development** | Responsive, pixel-accurate interfaces built from Figma designs |
-
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&title_color=36BCF7&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages"/>
-</p>
+## ⚡ At a Glance
 
 <div align="center">
 
-## Get in Touch
+![Experience](https://img.shields.io/badge/3%2B_Years-EXPERIENCE-0e75b6?style=for-the-badge)
+![Repositories](https://img.shields.io/badge/40%2B-REPOSITORIES-36BCF7?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/4-FREELANCE_PLATFORMS-1DBF73?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Laravel_%7C_React_%7C_Next.js-CORE_STACK-FF2D20?style=for-the-badge)
 
-### Have a project in mind? Let's build something great together.
+</div>
 
-<p>Whether it's a new web application, an API, or an AI-driven idea,<br/>I'd love to hear about it. I usually reply within a day.</p>
+<br/>
+
+## 🚀 What I Build
+
+| 🌐 Web Apps & CMS | 🔌 Backend & APIs | 🤖 AI & ML |
+| :-- | :-- | :-- |
+| Custom web applications and CMS portals with Laravel, React and Next.js | REST APIs, authentication systems and third-party integrations | Python-powered machine learning solutions and AI-driven applications |
+
+| 🎨 UI Development | 🗄️ Databases | 🛒 E-commerce |
+| :-- | :-- | :-- |
+| Responsive, pixel-accurate interfaces built from Figma designs | MySQL schema design, queries and performance optimization | Storefronts, product catalogs and checkout flows |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python&theme=dark" alt="Backend"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,ts,tailwind,bootstrap,html,css&theme=dark" alt="Frontend"/>
+
+**Tools & Design**
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" alt="Tools"/>
+
+<br/>
+
+## 📂 Featured Work
+
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [**learning-alliance-website**](https://github.com/ahmeddevz25/learning-alliance-website) | Website for Learning Alliance International | Laravel · PHP · CSS |
+| [**nextjs-ai-chatbot**](https://github.com/ahmeddevz25/nextjs-ai-chatbot) | AI-powered chatbot application | Next.js · TypeScript |
+| [**laravel-auth-package**](https://github.com/ahmeddevz25/laravel-auth-package) | Reusable authentication package for Laravel projects | PHP · Laravel |
+| [**react-ecommerce-site**](https://github.com/ahmeddevz25/react-ecommerce-site) | E-commerce storefront | React · JavaScript |
+| [**auth-api**](https://github.com/ahmeddevz25/auth-api) | Authentication API | REST · API |
+| [**Pakistan-House-Price-Prediction**](https://github.com/ahmeddevz25/Pakistan-House-Price-Prediction) | Machine learning model for house price prediction | Python · Jupyter |
+
+<div align="center">
+
+[![View Full Portfolio](https://img.shields.io/badge/View_Full_Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
+[![All Repositories](https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmeddevz25?tab=repositories)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&title_color=36BCF7&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Build Something Great
+
+<p>Have a project in mind? Whether it's a web application, an API or an AI-driven idea, I'd love to hear about it.</p>
 
 [![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmednadeemryk19@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
 
-<sub>ahmednadeemryk19@gmail.com &nbsp;·&nbsp; Lahore, Pakistan</sub>
+<sub>Available for freelance work on Upwork, Fiverr, Freelancer.com and LinkedIn</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=100&section=footer" width="100%" alt=""/>
 
