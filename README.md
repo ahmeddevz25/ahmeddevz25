@@ -1,76 +1,113 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
-<h3 align="center">Full-stack Developer</h3>
+<!-- ============================== HEADER ============================== -->
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+learning+🚀;Full-stack+Developer+%7C+AI+Enthusiast;Exploring+AI+Agents+%26+Agentic+AI;Passionate+about+UI%2FUX+Design" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Muhammad%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Learning%20AI%20%26%20ML&descSize=20&descAlignY=60" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmeddevz25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;3%2B+years+of+Laravel+%7C+React+%7C+Next.js;Currently+diving+into+AI+%26+Machine+Learning;Exploring+AI+Agents+%26+Agentic+AI" alt="Typing SVG" />
+</a>
 
-<table>
-  <tr>
-    <td>
+<br/>
 
-- ⚡ I am working with [Learning Alliance International](https://www.learningalliance.edu.pk/)  
-- 🌱 Last Project: [Learning Alliance International](https://www.learningalliance.edu.pk/)  
-- 🌱 I’m currently learning React, Next.js, **AI Agents & Agentic AI**  
-- 🤝 I’m looking to collaborate on innovative full-stack projects and AI-driven applications  
-- 📚 Ask me about PHP, Laravel, APIs, React.js, Next.js  
-- 🧠 Exploring **Cloud Technologies** & **DevOps tools** to expand my backend expertise  
-- 🎯 Passionate about building scalable solutions and enhancing **user experience**  
-- 📫 How to reach me: [**ahmednadeemryk19@gmail.com**](mailto:ahmednadeemryk19@gmail.com)  
-- ❤️ I love Designing **UI/UX**  
-- 😄 Fun fact: I am not a Dropout 😁  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmednadeemryk19@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
 
-    </td>
-    <td>
-      <img src="https://camo.githubusercontent.com/cd878ec5a6b9314e5d2862b8f5f6e934ef657572f93e650c569aa3499937eebd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4650626e53687131683149533546517950442f67697068792e676966" width="300"/>
-    </td>
-  </tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=ahmeddevz25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+
+</div>
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmeddevz25)
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Developer with 3+ years of experience** building fast, secure and user-friendly web applications. I work end to end: from database design and REST APIs to polished, responsive interfaces.
+
+- 💼 Software Engineer at [**Learning Alliance International**](https://www.learningalliance.edu.pk/)
+- 🧰 Core stack: **PHP, Laravel, React.js, Next.js, MySQL**
+- 🤖 Currently learning **AI & Machine Learning**, with a focus on **AI Agents & Agentic AI**
+- ☁️ Exploring **Cloud** and **DevOps** to strengthen my backend skills
+- 🎨 I love **UI/UX design** and care about the details users actually feel
+- 🤝 Open to collaborating on full-stack and AI-driven projects
+- 💬 Ask me about: **Laravel, PHP, REST APIs, React.js, Next.js**
+- 😄 Fun fact: I'm **not** a dropout
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&theme=radical" alt="streak"/>
-</p>
+## 🚀 What I'm Working On
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&theme=radical" alt="stats"/>
-</p>
+| Focus | Details |
+| :-- | :-- |
+| 🏫 **Current role** | Building and maintaining web solutions at Learning Alliance International |
+| 🤖 **Learning** | AI & Machine Learning, AI Agents, Agentic AI |
+| ⚛️ **Leveling up** | Advanced React.js and Next.js patterns |
+| ☁️ **Exploring** | Cloud technologies and DevOps tooling |
 
-### 🏆 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&theme=radical" alt="langs"/>
-</p>
+---
+
+## 💼 Freelance Services
+
+I also take on freelance work on **Upwork, Fiverr, Freelancer.com** and via **LinkedIn**:
+
+- 🌐 Custom web applications with **Laravel + React / Next.js**
+- 🔌 REST API design and integration
+- 🗄️ Database design and optimization (MySQL)
+- 🎨 Responsive UI built from Figma designs
+
+📫 **Want to work together?** [Email me](mailto:ahmednadeemryk19@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/ahmeddevz25).
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&theme=radical&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *If you like my work, feel free to star a repo or say hi!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=100&section=footer" width="100%" alt="footer"/>
+
+</div>
