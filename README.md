@@ -3,7 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Muhammad%20Ahmed&fontSize=50&fontColor=ffffff" width="100%" alt="Muhammad Ahmed"/>
 
-<h3>Full-Stack Developer &nbsp;•&nbsp; Learning AI &amp; ML</h3>
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer"/>
+  <img src="https://img.shields.io/badge/3%2B_Years_Experience-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="3+ Years Experience"/>
+  <img src="https://img.shields.io/badge/AI_%26_ML_Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML Enthusiast"/>
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;3%2B+years+of+Laravel+%7C+React+%7C+Next.js;Currently+diving+into+AI+%26+Machine+Learning;Exploring+AI+Agents+%26+Agentic+AI" alt="Typing SVG" />
