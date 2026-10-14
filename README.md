@@ -1,7 +1,9 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Muhammad%20Ahmed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Learning%20AI%20%26%20ML&descSize=20&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Muhammad%20Ahmed&fontSize=50&fontColor=ffffff" width="100%" alt="Muhammad Ahmed"/>
+
+<h3>Full-Stack Developer &nbsp;•&nbsp; Learning AI &amp; ML</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;3%2B+years+of+Laravel+%7C+React+%7C+Next.js;Currently+diving+into+AI+%26+Machine+Learning;Exploring+AI+Agents+%26+Agentic+AI" alt="Typing SVG" />
@@ -13,8 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmednadeemryk19@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
-
-<img src="https://komarev.com/ghpvc/?username=ahmeddevz25&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
