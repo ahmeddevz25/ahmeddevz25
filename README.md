@@ -3,14 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Muhammad%20Ahmed&fontSize=50&fontColor=ffffff" width="100%" alt="Muhammad Ahmed"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-0e75b6?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer"/>
-  <img src="https://img.shields.io/badge/3%2B_Years_Experience-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="3+ Years Experience"/>
-  <img src="https://img.shields.io/badge/AI_%26_ML_Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML Enthusiast"/>
-</p>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+%F0%9F%9A%80;3%2B+years+of+Laravel+%7C+React+%7C+Next.js;Custom+CMS+portals+%26+REST+APIs;Currently+diving+into+AI+%26+Machine+Learning+%F0%9F%A4%96;Exploring+AI+Agents+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer+%F0%9F%9A%80;3%2B+years+of+Laravel+%7C+React+%7C+Next.js;Custom+CMS+portals+%26+REST+APIs;Learning+AI+%26+Machine+Learning+%F0%9F%A4%96;Exploring+AI+Agents+%26+Agentic+AI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -23,33 +17,29 @@
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ============================== ABOUT ============================== -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-Passionate **Full-Stack Developer & AI/ML Enthusiast** with **3+ years** of professional experience in **Laravel, React.js and Next.js**. I build scalable web applications, custom CMS portals, and intelligent **Python-powered Machine Learning** solutions: from database design and REST APIs to polished, responsive interfaces.
+<p align="center">
+  Passionate <b>Full-Stack Developer & AI/ML Enthusiast</b> with <b>3+ years</b> of professional experience in<br/>
+  <b>Laravel, React.js and Next.js</b>. I build scalable web applications, custom CMS portals,<br/>
+  and intelligent <b>Python-powered Machine Learning</b> solutions.
+</p>
 
-```js
-const muhammad = {
-  role: "Full-Stack Developer",
-  company: "Learning Alliance International",
-  experience: "3+ years",
-  stack: ["Laravel", "React.js", "Next.js", "PHP", "MySQL"],
-  learning: ["AI & ML", "AI Agents", "Agentic AI"],
-  exploring: ["Cloud", "DevOps"],
-  lovesDoing: "UI/UX Design",
-  openTo: ["Freelance projects", "AI-driven collaborations"],
-  funFact: "I'm not a dropout 😄",
-};
-```
+<div align="center">
 
-- 🌐 **Portfolio:** [ahmed-portfolio-mu-six.vercel.app](https://ahmed-portfolio-mu-six.vercel.app/)
-- 💼 **Working at:** [Learning Alliance International](https://www.learningalliance.edu.pk/)
-- 💬 **Ask me about:** Laravel, PHP, REST APIs, React.js, Next.js
+| 🧑‍💻 Role | 🏢 Working at | 🤖 Learning | 🤝 Open to |
+| :-: | :-: | :-: | :-: |
+| **Full-Stack Developer**<br/>3+ years | [**Learning Alliance International**](https://www.learningalliance.edu.pk/) | **AI & ML**<br/>AI Agents · Agentic AI | **Freelance work**<br/>Collaborations |
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br/>
+
+<!-- ============================== TECH STACK ============================== -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
@@ -79,62 +69,46 @@ const muhammad = {
 
 </div>
 
----
+<br/>
 
-## 🚀 What I'm Working On
+<!-- ============================== SERVICES ============================== -->
+<h2 align="center">💼 Freelance Services</h2>
 
-| Focus | Details |
-| :-- | :-- |
-| 🏫 **Current role** | Building and maintaining web solutions at Learning Alliance International |
-| 🤖 **Learning** | AI & Machine Learning, AI Agents, Agentic AI |
-| ⚛️ **Leveling up** | Advanced React.js and Next.js patterns |
-| ☁️ **Exploring** | Cloud technologies and DevOps tooling |
-
----
-
-## 💼 Freelance Services
-
-I also take on freelance work on **Upwork, Fiverr, Freelancer.com** and via **LinkedIn**.
-
-| 🌐 Web Applications | 🔌 APIs | 🗄️ Databases | 🎨 UI Development |
-| :--: | :--: | :--: | :--: |
-| Custom apps with **Laravel + React / Next.js** | REST API design and integration | MySQL design and optimization | Responsive UI from **Figma** designs |
+<p align="center">Available on <b>Upwork, Fiverr, Freelancer.com</b> and via <b>LinkedIn</b></p>
 
 <div align="center">
+
+| 🌐 Web Applications | 🔌 APIs | 🗄️ Databases | 🎨 UI Development |
+| :-: | :-: | :-: | :-: |
+| Custom apps with **Laravel + React / Next.js** | REST API design and integration | MySQL design and optimization | Responsive UI from **Figma** designs |
+
+</div>
 
 <br/>
 
+<!-- ============================== STATS ============================== -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&hide_border=false&title_color=36BCF7&icon_color=0e75b6&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&hide_border=false&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&background=0D1117&ring=36BCF7&fire=0e75b6&currStreakLabel=36BCF7&sideLabels=36BCF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&border=30363D" alt="GitHub streak"/>
+
+</div>
+
+<br/>
+
+<!-- ============================== FOOTER ============================== -->
+<div align="center">
+
+<h2>🤝 Let's Work Together</h2>
+
 [![View My Portfolio](https://img.shields.io/badge/👉_View_My_Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
-[![Hire Me](https://img.shields.io/badge/📩_Let's_Work_Together-1DBF73?style=for-the-badge)](mailto:ahmednadeemryk19@gmail.com)
+[![Email Me](https://img.shields.io/badge/📩_Email_Me-1DBF73?style=for-the-badge)](mailto:ahmednadeemryk19@gmail.com)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmeddevz25&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddevz25&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&theme=radical&hide_border=true" alt="GitHub streak"/>
-
-**Contribution Activity**
-
-<img src="https://ghchart.rshah.org/36BCF7/ahmeddevz25" alt="Contribution chart" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=flat-square&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmednadeemryk19@gmail.com)
+<br/>
 
 ⭐ *If you like my work, feel free to star a repo or say hi!* ⭐
 
