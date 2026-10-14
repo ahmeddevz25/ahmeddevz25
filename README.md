@@ -10,10 +10,10 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;3%2B+years+of+Laravel+%7C+React+%7C+Next.js;Currently+diving+into+AI+%26+Machine+Learning;Exploring+AI+Agents+%26+Agentic+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+%F0%9F%9A%80;3%2B+years+of+Laravel+%7C+React+%7C+Next.js;Custom+CMS+portals+%26+REST+APIs;Currently+diving+into+AI+%26+Machine+Learning+%F0%9F%A4%96;Exploring+AI+Agents+%26+Agentic+AI" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
@@ -27,17 +27,25 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer with 3+ years of experience** building fast, secure and user-friendly web applications. I work end to end: from database design and REST APIs to polished, responsive interfaces. I specialize in scalable web applications, custom CMS portals, and intelligent Python-powered Machine Learning solutions.
+Passionate **Full-Stack Developer & AI/ML Enthusiast** with **3+ years** of professional experience in **Laravel, React.js and Next.js**. I build scalable web applications, custom CMS portals, and intelligent **Python-powered Machine Learning** solutions: from database design and REST APIs to polished, responsive interfaces.
 
-- 🌐 Portfolio: [**ahmed-portfolio-mu-six.vercel.app**](https://ahmed-portfolio-mu-six.vercel.app/)
-- 💼 Software Engineer at [**Learning Alliance International**](https://www.learningalliance.edu.pk/)
-- 🧰 Core stack: **PHP, Laravel, React.js, Next.js, MySQL**
-- 🤖 Currently learning **AI & Machine Learning**, with a focus on **AI Agents & Agentic AI**
-- ☁️ Exploring **Cloud** and **DevOps** to strengthen my backend skills
-- 🎨 I love **UI/UX design** and care about the details users actually feel
-- 🤝 Open to collaborating on full-stack and AI-driven projects
-- 💬 Ask me about: **Laravel, PHP, REST APIs, React.js, Next.js**
-- 😄 Fun fact: I'm **not** a dropout
+```js
+const muhammad = {
+  role: "Full-Stack Developer",
+  company: "Learning Alliance International",
+  experience: "3+ years",
+  stack: ["Laravel", "React.js", "Next.js", "PHP", "MySQL"],
+  learning: ["AI & ML", "AI Agents", "Agentic AI"],
+  exploring: ["Cloud", "DevOps"],
+  lovesDoing: "UI/UX Design",
+  openTo: ["Freelance projects", "AI-driven collaborations"],
+  funFact: "I'm not a dropout 😄",
+};
+```
+
+- 🌐 **Portfolio:** [ahmed-portfolio-mu-six.vercel.app](https://ahmed-portfolio-mu-six.vercel.app/)
+- 💼 **Working at:** [Learning Alliance International](https://www.learningalliance.edu.pk/)
+- 💬 **Ask me about:** Laravel, PHP, REST APIs, React.js, Next.js
 
 ---
 
@@ -86,14 +94,20 @@ I'm a **Full-Stack Developer with 3+ years of experience** building fast, secure
 
 ## 💼 Freelance Services
 
-I also take on freelance work on **Upwork, Fiverr, Freelancer.com** and via **LinkedIn**:
+I also take on freelance work on **Upwork, Fiverr, Freelancer.com** and via **LinkedIn**.
 
-- 🌐 Custom web applications with **Laravel + React / Next.js**
-- 🔌 REST API design and integration
-- 🗄️ Database design and optimization (MySQL)
-- 🎨 Responsive UI built from Figma designs
+| 🌐 Web Applications | 🔌 APIs | 🗄️ Databases | 🎨 UI Development |
+| :--: | :--: | :--: | :--: |
+| Custom apps with **Laravel + React / Next.js** | REST API design and integration | MySQL design and optimization | Responsive UI from **Figma** designs |
 
-📫 **Want to work together?** Check my [portfolio](https://ahmed-portfolio-mu-six.vercel.app/), [email me](mailto:ahmednadeemryk19@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/ahmeddevz25).
+<div align="center">
+
+<br/>
+
+[![View My Portfolio](https://img.shields.io/badge/👉_View_My_Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
+[![Hire Me](https://img.shields.io/badge/📩_Let's_Work_Together-1DBF73?style=for-the-badge)](mailto:ahmednadeemryk19@gmail.com)
+
+</div>
 
 ---
 
@@ -106,13 +120,21 @@ I also take on freelance work on **Upwork, Fiverr, Freelancer.com** and via **Li
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeddevz25&theme=radical&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmeddevz25&theme=redical&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+**Contribution Activity**
+
+<img src="https://ghchart.rshah.org/36BCF7/ahmeddevz25" alt="Contribution chart" width="90%"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+### 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0e75b6?style=flat-square&logo=vercel&logoColor=white)](https://ahmed-portfolio-mu-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmeddevz25)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmednadeemryk19@gmail.com)
 
 ⭐ *If you like my work, feel free to star a repo or say hi!* ⭐
 
