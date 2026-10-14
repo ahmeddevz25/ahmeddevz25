@@ -43,13 +43,13 @@ Passionate **Full Stack Developer & AI/ML Enthusiast** with **3 years** of profe
 
 ## 🛠️ Skills & Tech Stack
 
-| Backend & Frameworks | Frontend & Mobile | Database & DevOps | AI & Machine Learning |
-| :-- | :-- | :-- | :-- |
-| ✓ Laravel & PHP<br/>✓ Python & Django<br/>✓ RESTful APIs<br/>✓ Microservices | ✓ Vue.js & React.js<br/>✓ Next.js & Inertia.js<br/>✓ Capacitor.js<br/>✓ Tailwind CSS | ✓ MySQL & PostgreSQL<br/>✓ Redis & MongoDB<br/>✓ AWS Cloud<br/>✓ Docker & Git | ✓ Python, NumPy & Pandas<br/>✓ Scikit-Learn & Regressions<br/>✓ LLM APIs & Prompt Eng.<br/>✓ Data Analysis & NLP |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,vue,react,nextjs,tailwind,mysql,postgres,redis,mongodb,aws,docker,git,github,figma&theme=dark" alt="Tech stack"/>
-</p>
+| Area | Technologies |
+| :-- | :-- |
+| **Backend & Frameworks**<br/><sub>Laravel · PHP · Python · Django<br/>RESTful APIs · Microservices</sub> | <img src="https://skillicons.dev/icons?i=php,laravel,python,django&theme=dark" alt="Backend"/> |
+| **Frontend & Mobile**<br/><sub>Vue.js · React.js · Next.js · Inertia.js<br/>Capacitor.js · Tailwind CSS</sub> | <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind&theme=dark" alt="Frontend"/> |
+| **Databases**<br/><sub>MySQL · PostgreSQL · Redis · MongoDB</sub> | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark" alt="Databases"/> |
+| **DevOps & Tools**<br/><sub>AWS Cloud · Docker · Git · GitHub · Figma</sub> | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma&theme=dark" alt="DevOps and tools"/> |
+| **AI & Machine Learning**<br/><sub>Python · NumPy · Pandas · Scikit-Learn<br/>LLM APIs & Prompt Eng. · Data Analysis & NLP</sub> | <img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark" alt="AI and ML"/> |
 
 <br/>
 
