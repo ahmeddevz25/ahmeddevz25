@@ -38,6 +38,22 @@
 
 <br/>
 
+<h3 align="center">✨ Quick Facts</h3>
+
+<p align="center">
+  ⚡ Working at <a href="https://www.learningalliance.edu.pk/"><b>Learning Alliance International</b></a> (my latest project)<br/><br/>
+  🌱 Currently learning <b>AI & Machine Learning</b>, <b>AI Agents & Agentic AI</b><br/><br/>
+  🧠 Exploring <b>Cloud Technologies</b> & <b>DevOps tools</b> to expand my backend expertise<br/><br/>
+  🤝 Looking to collaborate on innovative <b>full-stack projects</b> and <b>AI-driven applications</b><br/><br/>
+  📚 Ask me about <b>PHP, Laravel, APIs, React.js, Next.js</b><br/><br/>
+  🎯 Passionate about building <b>scalable solutions</b> and enhancing <b>user experience</b><br/><br/>
+  ❤️ I love designing <b>UI/UX</b><br/><br/>
+  📫 How to reach me: <a href="mailto:ahmednadeemryk19@gmail.com"><b>ahmednadeemryk19@gmail.com</b></a><br/><br/>
+  😄 Fun fact: I am not a dropout 😁
+</p>
+
+<br/>
+
 <!-- ============================== TECH STACK ============================== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
